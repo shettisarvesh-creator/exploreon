@@ -1,0 +1,6 @@
+{
+  "name": "CHRONO — AI Historical Time-Travel Chatbot",
+  "description": "An AI-powered historical exploration chatbot with interactive 3D architectural relics, agentic RAG, knowledge graph relationships, source citations, and time travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
